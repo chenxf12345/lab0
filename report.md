@@ -66,6 +66,5 @@ hotfix（线上紧急修复分支）：直接从生产环境的 master（或对�
 手动排解冲突，保留所需内容，通过 VS Code 界面点击 Continue 完成了合并提交。
 ### 冲突现场截图
 ![Merge Conflict](images/conflict.png)
-
 ### 解决冲突后的截图
 ![Conflict Resolved](images/resolved.png)
